@@ -15,3 +15,10 @@ a {
 
 @tailwind components;
 @tailwind utilities;
+
+.bg{
+
+  
+   background-color: red;
+  background-size: cover;
+}
